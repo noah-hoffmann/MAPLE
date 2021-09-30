@@ -4,3 +4,11 @@ Model interpretability is an increasingly important component of practical machi
 
 
 This repo contains an implementation of MAPLE as well as the code to replicate the results in the [paper](https://arxiv.org/abs/1807.02910).
+
+# Installation
++ Clone repository
++ Open a terminal in the directory MAPLE
++ Install the package with pip by running:
+    ```shell
+    pip install .
+    ```
