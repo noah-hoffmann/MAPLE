@@ -21,8 +21,8 @@ from sklearn.svm import SVR
 import sys
 sys.path.insert(0, "/home/gregory/Desktop/MAPLE/Code/")
 
-from MAPLE import MAPLE
-from Misc import load_normalize_data, unpack_coefs
+from maple.MAPLE import MAPLE
+from maple.Misc import load_normalize_data, unpack_coefs
 
 from lime import lime_tabular
 

@@ -18,8 +18,8 @@ from sklearn.metrics import mean_squared_error
 # Code imports
 import sys
 sys.path.insert(0, "/home/gregory/Desktop/MAPLE/Code/")
-from MAPLE import MAPLE
-from Misc import load_normalize_data
+from maple.MAPLE import MAPLE
+from maple.Misc import load_normalize_data
 
 ###
 # Run Experiments
